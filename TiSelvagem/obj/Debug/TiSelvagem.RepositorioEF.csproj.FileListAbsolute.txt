@@ -1,0 +1,14 @@
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\bin\Debug\TiSelvagem.dll.config
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\bin\Debug\TiSelvagem.dll
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\bin\Debug\TiSelvagem.pdb
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\bin\Debug\EntityFramework.dll
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\bin\Debug\TiSelvagem.Dominio.dll
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\bin\Debug\TiSelvagem.Dominio.pdb
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\bin\Debug\EntityFramework.xml
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\obj\Debug\TiSelvagem.RepositorioEF.csproj.AssemblyReference.cache
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\obj\Debug\TiSelvagem.RepositorioEF.csproj.CoreCompileInputs.cache
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\obj\Debug\TiSelvagem.RepositorioEF.csproj.CopyComplete
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\obj\Debug\TiSelvagem.dll
+C:\Users\pedro.cortez\source\repos\TiSelvagem\TiSelvagem\obj\Debug\TiSelvagem.pdb
